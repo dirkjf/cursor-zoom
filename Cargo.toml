@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 enigo = { git = "https://github.com/Prunkton/enigo", version = "0.0.14" }
+nannou = "0.18.1"
